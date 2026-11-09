@@ -1,2 +1,2 @@
-# inal-Degree-Project-Enterprise-Knowledge-Web-Assistant-using-RAG-and-local-LLMs
-Projeto da
+# Enterprise Knowledge Web Assistant using RAG and local LLMs
+
